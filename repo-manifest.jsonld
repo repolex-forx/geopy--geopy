@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/geopy/geopy/commit/402cbba8b093e5e3f89c81b902f576d65608a123",
       "git:hexsha": "402cbba8b093e5e3f89c81b902f576d65608a123",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2.5.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2.5.0",
+      "repolex:parsedAt": "2026-10-19T11:36:38.799323+00:00"
     },
     {
       "@id": "https://repolex.ai/r/geopy/geopy/commit/baa4232b28a10df8ebd2f079c76acc2263d5d838",
