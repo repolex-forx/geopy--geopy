@@ -1,0 +1,11 @@
+{
+  "org": "geopy",
+  "repo": "geopy",
+  "versions": [
+    {
+      "commit": "402cbba8b093e5e3f89c81b902f576d65608a123",
+      "tag": "2.5.0",
+      "parsed_at": "2026-10-19T11:36:38.799871+00:00"
+    }
+  ]
+}
